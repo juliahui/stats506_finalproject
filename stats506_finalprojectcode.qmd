@@ -1,0 +1,12 @@
+---
+title: "stats506_finalprojectcode"
+format: 
+  html:
+    embed-resources: true
+---
+
+explore data
+```{r}
+
+```
+
